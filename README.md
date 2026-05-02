@@ -6,6 +6,7 @@ This project analyzes domestic air traffic in Saudi Arabia for the year 2025 usi
 The goal is to uncover patterns in passenger movement, flight activity, and airport performance, and to transform raw data into meaningful business insights.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92b114c0-8805-4857-bf3f-2f366e69dbd9" />
 
 ##  Objectives
 
